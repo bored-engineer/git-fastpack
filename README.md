@@ -1,4 +1,4 @@
-# git-fastpack
+# git-fastpack [![Go Reference](https://pkg.go.dev/badge/github.com/bored-engineer/git-fastpack.svg)](https://pkg.go.dev/github.com/bored-engineer/git-fastpack)
 A "fast" Golang parser for [git packfiles](https://git-scm.com/book/en/v2/Git-Internals-Packfiles), operating exclusive on byte slices.
 
 ```go
